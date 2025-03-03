@@ -1,4 +1,5 @@
 package com.sat.tmf.pmt.entity;
+import java.util.List;
 
 public class User {
   private int user_id;
