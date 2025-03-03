@@ -45,7 +45,5 @@ public class UserAccount {
 			this.user = user;
 		}
 
-		
 	}
 
-}
